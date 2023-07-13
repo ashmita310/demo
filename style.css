@@ -1,4 +1,18 @@
-h1 {
-    color: red;
-    text-align: center;
-  }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.header{
+  display: flex;
+}
+
+.navbar{
+  height: 1400;
+  width: 139;
+}
+
+.nav-search{
+  display: flex;
+}
