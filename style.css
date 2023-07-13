@@ -29,6 +29,7 @@
   border-right: none;
   font-family: sans-serif;
   padding: 2%;
+  outline: none;
 }
 .search-icon{
   width: 45px;
