@@ -4,11 +4,10 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
-.header{
-  display: flex;
-}
-
 .navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 5%;
   height: 1400;
   width: 139;
 }
